@@ -1,0 +1,23 @@
+//Para comenzar, Un Editor de Texto es una herramienta que nos permite escribir código y que nos ayudará en el lenguaje de programación a la hora de desarrollar éste.
+
+//GitHub es una red en donde se puede almacenar Directorios/Repositorios. También es un lugar donde se comparten códigos y proyectos; y sirve como portafiolio.
+
+//Git es un Sistema de Control de Versiones en el cual nos permite registrar cambios realizados en un archivo/adjunto o conjunto de archivos; y también nos permite recuperar esos cambios realizados.
+
+//Una Interfaz de Usuario es un medio donde el usuario mismo le comunica a una máquina,computadora, equipo o dispositivo donde los mismo comprenden los puntos del contacto del usuario.
+
+//Existen 3 tipos de Interfaces: El CLI, GUI y NUI.
+
+//El CLI es una interfaz de usuario de tipo codificada y estricta; El GUI es de ser más metafórico y flexible; Mientras que el NUI es más directa e intuitiva.
+
+//Las ventajas del CLI son: que requiere de pocos requisitos, es fácil de automatizar, preferido por expertos y otorga mayor cantidad de opciones que el GUI.
+
+//Sus desventajas son: preferido por los profesionales, no es intuitivo, su curva de aprendizaje es lenta y no es visualmente atractivo.
+
+//Existen 3 tipos de Sistemas del Control de versiones: La Local, la Centralizada y la Distribuida.
+
+//El sistema de control Local está incorporada por 1 computadora y todas las versiones y archivos posibles para guardarlo.
+
+//El sistema de control Centralizado está incorporada por 2 computadoras y también la disponibilidad de todos los archivos y versiones posibles para almacernarlos.
+
+//El sistema de control distribuido está estructurada por 1 servidor y 2 computadoras (cada una con su propio repositorio).
