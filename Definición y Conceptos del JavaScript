@@ -1,0 +1,29 @@
+//JavaScript es una consola que posee un lenguaje de interpretado dentor del cual, posee una cierta cantidad de variables para realizar el guardado de información.
+
+//Las variables son palabras clave/reservadas para utilizarlas en el lenguaje.
+
+//Los Tipos de Datos son atributos y restricciones que se declaran para la clase de datos. Entre ellos están Strings, Numbers, Boolean, null, undefined y Operadores Matemáticos.
+
+//String es una cadena de carácteres en donde le puedes inventar un nombre y se cierra en comillas.
+
+//Numbers simplemente son números. Estos no llevan comillas.
+
+//Boolean es un comando de lógica en el cual te emite un verdadero o falso cuando anteriormente realizaste una condición. Se les conoce como "true" o "false".
+
+//null y undefined son aquellos que están nulos o no están definidos por completo ya que no tienen declarado un valor de retorno.
+
+//Operadores Matemáticos serían aquellos como la suma, resta, división, producto y módulo.
+
+//Las funciones son aquellas en el cual el usuario establece un código propio de él y establece los argumentos dentro de ellos; y posteriormente, establece una función que pertenenicente de la computadora.
+
+//Los argumentos son los fundamentos que el usuario aplica después de escribir previamente un código.
+
+//El return es un comando en el cual lo que emite es un valor de retorno en base al codificado escrito anteriormente.
+
+//Los bucles son un sin fin de elementos en el cual se repiten infinitamente.
+
+//Existen 2 tipos de Bucle: For y While.
+
+//El for es un bucle en donde te permite establecer una condición, en el cual, te permite evitar equivocarte muy seguido.
+
+//El while es un bucle el cual, es más fácil de declararle variables y cuantas de ellas te den el retorno de los valores que le has comunicado, pero es más difícil a la hora de decirle que frene o tenga un alto.
