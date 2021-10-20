@@ -12,8 +12,8 @@
 
 //También se puede asignar a un array con funciones nativas como : .push() , .pop(), .shift() y .unshift().
 //Estos comandos nos permiten añadir o remover un índice del array.
-//En el caso del .push() y .shift() nos permite AÑADIR el índice que queremos, pero la diferencia es que el .push() nos permite añadir en el último elemento de la lista; mientras que el .shift() solo puede añadir en el primer elemento de esta. 
-//El .pop() y .unshift() cumplen la función de remover elementos del array; y como mencionamos anteriormente, el .pop() funciona en el úiltimo elemento y .unshift() funciona en el primero.
+//En el caso del .push() y .shift() nos permite AÑADIR el índice que queremos, pero la diferencia es que el .push() nos permite añadir en el último elemento de la lista; mientras que el .unshift() solo puede añadir en el primer elemento de esta. 
+//El .pop() y .unshift() cumplen la función de remover elementos del array; y como mencionamos anteriormente, el .pop() funciona en el úiltimo elemento y .shift() funciona en el primero.
 
 //Para recorrer un array, se debe ejecutar el siguiente comando:
 
