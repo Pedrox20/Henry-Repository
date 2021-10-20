@@ -1,0 +1,29 @@
+//Un array (o arreglo) es un comando que te permite crear una lista de elementos en la cual pueden ser los tipos de datos, y a la vez; el array acepta todos estos.
+
+//Example: var array = [1, 2, 3, 4, 5];
+//var anotherArray = ["Hola", "Adiós", "¿Qué tal"?, "¿Cómo va tu día?"];
+//var insideArray = [1, "Hola" [2, "Adiós"];
+
+//La asignación en un array te permite asignar y reasignar un índice dentro de la matriz utilizando paréntesis, otro índice y el símbolo =.
+
+//Example: const numbers = [1 ,2 ,3 ,4 ,5 ];
+//numbers [0] = 0;
+//console.log (numbers) = [0, 1, 2, 3, 4, 5];
+
+//También se puede asignar a un array con funciones nativas como : .push() , .pop(), .shift() y .unshift().
+//Estos comandos nos permiten añadir o remover un índice del array.
+//En el caso del .push() y .shift() nos permite AÑADIR el índice que queremos, pero la diferencia es que el .push() nos permite añadir en el último elemento de la lista; mientras que el .shift() solo puede añadir en el primer elemento de esta. 
+//El .pop() y .unshift() cumplen la función de remover elementos del array; y como mencionamos anteriormente, el .pop() funciona en el úiltimo elemento y .unshift() funciona en el primero.
+
+//Para recorrer un array, se debe ejecutar el siguiente comando:
+
+//Example: var list = [1, 2, 3, 4 ,5];
+for (var i = 0; i < list.length; i++) {
+console.log (list.pop());
+}
+//Para el while funcionaría de la misma manera.
+
+//Example: var list = [5, 4, 3, 2, 1];
+//while (list.length < 0) {
+console.log (list.pop());
+}
