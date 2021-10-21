@@ -1,0 +1,30 @@
+//Un objeto es una colección de propiedades en la cual, la propiedad tiene una asociación que puede ser o un nombre... o un valor.
+//Estructura: 
+var objeto = {
+propiedad1 : valor1,
+propiedad2 : valor2,
+}
+
+//Acceso a las propiedades:
+var objeto {
+propiedad : "valor",
+}
+console.log (objeto.propiedad); <--- Dot Notation.
+||
+console.log (objeto["propiedad"]; <--- Bracket Notation.
+
+//Asignando valores:
+objeto.newProperty = 1;
+||
+objeto[anotherProperty = 2;
+
+//El keyword this. nos sirve para "llamar" al objeto que nosotros habremos declarado anteriormente.
+//Example:
+var person {
+name : "Pedro",
+age : 20,
+hobbies : "workout", "music", "drawing",
+say hi: function(){
+console.log ("Hi," + this.name);
+}
+//El bucle for... in tiene la función de recorrer cada clave del objeto. 
