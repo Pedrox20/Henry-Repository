@@ -1,0 +1,3 @@
+//El prototype es un keyword que esta presente en todos los keywords presentes el cual nos permite que de todos los objetos que hayamos escrito, los utilicemos referencia para otro objeto con el comando .__proto__
+
+//El constructor de classes nos permite clasificar de mejor manera la clase de objetos/propiedades que nosotros estemos codificando y además, evitar la repitencia de un codificado para que realice una misma función.
