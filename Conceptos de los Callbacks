@@ -7,7 +7,9 @@
           function decirAdiósAlUsuario(usuario) {
           return "Adiós" + usuario + "!";
           }
-          
+          function crearSaludo(usuario,cb) {
+          return cb (usuario);
+          }
           crearSaludo("Pedro", decirHolaAlUsuario);
           
           crearSaludo("Pedro", decirAdiósAlUsuario);
