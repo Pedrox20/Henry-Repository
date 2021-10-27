@@ -1,0 +1,14 @@
+//Un Callback es una función el cual nos permite pasar argumentos a otras funciones para luego poder retornarlas como el resultado de una función; y también nos permite guardarlas en variables y otras estructuras de datos. 
+
+//Example:
+          function decirHolaAlUsuario(usuario){
+          return "Hola" + usuario + "!";
+          }
+          function decirAdiósAlUsuario(usuario) {
+          return "Adiós" + usuario + "!";
+          }
+          
+          crearSaludo("Pedro", decirHolaAlUsuario);
+          
+          crearSaludo("Pedro", decirAdiósAlUsuario);
+          
